@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 
-<h3 align="center">A front end developer from Germany🇳</h3>
+<h3 align="center">A front end developer from Germany</h3>
 
 
 
@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [jxshuaa](https://github.com/jxshuaa/)
 
-- ⚡ Fun fact **Tea tastes way better than Coffee**
-
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
+- ⚡ Fun fact **Water is the best**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
