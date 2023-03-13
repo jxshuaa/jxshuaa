@@ -5,13 +5,13 @@
 
 
 
-- 💬 Ask me about **react, vue and java**
+- 💬 Ask me about **React, Vue and Java**
 
 - 📫 Reach me at **me@jxshua.tech**
 
 - 👨‍💻 All of my projects are available at [jxshuaa](https://github.com/jxshuaa/)
 
-- ⚡ Fun fact **Water is the best**
+- ⚡ Fun fact **Josh and Dylan are my best friends.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
