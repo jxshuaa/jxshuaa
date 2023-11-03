@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Vue and Java**
 
-- 📫 Reach me at **me@jxshua.tech**
+- 📫 Reach me at **me@jxshua.dev**
 
 - 👨‍💻 All of my projects are available at [jxshuaa](https://github.com/jxshuaa/)
 
